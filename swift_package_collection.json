@@ -1,1 +1,118 @@
-{"formatVersion":"1.0","generatedAt":"2022-08-18T04:26:43Z","name":"Ian Leon's Swift Packages","packages":[{"keywords":[],"readmeURL":"https://raw.githubusercontent.com/ianleon/WidgetPreviews/main/README.md?token=AABDG73EEQXD5YTNHFD5L5DC7W72C","url":"git@github.com:ianleon/WidgetPreviews.git","versions":[{"defaultToolsVersion":"5.6","manifests":{"5.6":{"packageName":"WidgetPreviews","products":[{"name":"WidgetPreviews","targets":["WidgetPreviews"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"WidgetPreviews","name":"WidgetPreviews"}],"toolsVersion":"5.6"}},"summary":"","version":"1.0.0"}]},{"keywords":[],"readmeURL":"https://raw.githubusercontent.com/ianleon/Muscovado/main/README.md?token=AABDG74ALKABJYUFVXAX6MLC7W7Z6","url":"git@github.com:ianleon/Muscovado.git","versions":[{"defaultToolsVersion":"5.6","manifests":{"5.6":{"packageName":"Muscovado","products":[{"name":"Muscovado","targets":["Muscovado"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Muscovado","name":"Muscovado"}],"toolsVersion":"5.6"}},"summary":"","version":"1.0.0"}]}]}
+{
+  "formatVersion": "1.0",
+  "generatedAt": "2022-08-18T04:32:14Z",
+  "name": "Ian Leon's Swift Packages",
+  "packages": [
+    {
+      "keywords": [],
+      "readmeURL": "https://raw.githubusercontent.com/ianleon/StatusDesign/main/README.md?token=AABDG7643LK2TLNN35NMIX3C7XAQM",
+      "url": "git@github.com:ianleon/StatusDesign.git",
+      "versions": [
+        {
+          "defaultToolsVersion": "5.6",
+          "manifests": {
+            "5.6": {
+              "packageName": "StatusDesign",
+              "products": [
+                {
+                  "name": "StatusDesign",
+                  "targets": [
+                    "StatusDesign"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "StatusDesign",
+                  "name": "StatusDesign"
+                }
+              ],
+              "toolsVersion": "5.6"
+            }
+          },
+          "summary": "",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "keywords": [],
+      "readmeURL": "https://raw.githubusercontent.com/ianleon/WidgetPreviews/main/README.md?token=AABDG77UWNGHC35QTR6REMTC7XAQQ",
+      "url": "git@github.com:ianleon/WidgetPreviews.git",
+      "versions": [
+        {
+          "defaultToolsVersion": "5.6",
+          "manifests": {
+            "5.6": {
+              "packageName": "WidgetPreviews",
+              "products": [
+                {
+                  "name": "WidgetPreviews",
+                  "targets": [
+                    "WidgetPreviews"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "WidgetPreviews",
+                  "name": "WidgetPreviews"
+                }
+              ],
+              "toolsVersion": "5.6"
+            }
+          },
+          "summary": "",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "keywords": [],
+      "readmeURL": "https://raw.githubusercontent.com/ianleon/Muscovado/main/README.md?token=AABDG73YS666AST2J7ACPV3C7XAQS",
+      "url": "git@github.com:ianleon/Muscovado.git",
+      "versions": [
+        {
+          "defaultToolsVersion": "5.6",
+          "manifests": {
+            "5.6": {
+              "packageName": "Muscovado",
+              "products": [
+                {
+                  "name": "Muscovado",
+                  "targets": [
+                    "Muscovado"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "Muscovado",
+                  "name": "Muscovado"
+                }
+              ],
+              "toolsVersion": "5.6"
+            }
+          },
+          "summary": "",
+          "version": "1.0.0"
+        }
+      ]
+    }
+  ]
+}
