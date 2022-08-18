@@ -1,0 +1,8 @@
+{
+  "name": "Ian Leon's Swift Packages",
+  "packages": [
+    {
+      "url": "git@github.com:ianleon/Muscovado.git"
+    }
+  ]
+}

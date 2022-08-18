@@ -1,8 +1,1 @@
-{
-    "name": "Ian Leon's Swift Packages",
-    "packages": [
-        {
-            "url": "https://github.com/ianleon/Muscovado.git"
-        }
-    ]
-  }
+{"formatVersion":"1.0","generatedAt":"2022-08-18T04:13:15Z","name":"Ian Leon's Swift Packages","packages":[{"keywords":[],"readmeURL":"https://raw.githubusercontent.com/ianleon/Muscovado/main/README.md?token=AABDG74HTNAWNWOCNUG6XQLC7W6HS","url":"git@github.com:ianleon/Muscovado.git","versions":[{"defaultToolsVersion":"5.6","manifests":{"5.6":{"packageName":"Muscovado","products":[{"name":"Muscovado","targets":["Muscovado"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Muscovado","name":"Muscovado"}],"toolsVersion":"5.6"}},"summary":"","version":"1.0.0"}]}]}
