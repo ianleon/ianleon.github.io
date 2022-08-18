@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Ian Leon on GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ianleon/Page/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Ian Leon GitHub Page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+See what Ian does on GitHub
 
 ### Markdown
 
