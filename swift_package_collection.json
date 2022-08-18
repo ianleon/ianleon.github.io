@@ -1,12 +1,8 @@
 {
-    "formatVersion": "1.0",
-    "generatedAt": "2022-08-16T21:46:05Z",
     "name": "Ian Leon's Swift Packages",
-    "overview": "Ian Leon's Favorite Swift Packages",
     "packages": [
-      {
-        "summary": "Sugar for SwiftUI",
-        "url": "https://github.com/ianleon/Muscovado.git"
-      }
+        {
+            "url": "https://github.com/ianleon/Muscovado.git"
+        }
     ]
   }
