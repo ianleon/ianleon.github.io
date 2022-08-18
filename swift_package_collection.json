@@ -1,79 +1,12 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2022-08-18T04:53:57Z",
+  "generatedAt": "2022-08-18T05:22:27Z",
   "name": "Ian Leon's Swift Packages",
   "packages": [
     {
       "keywords": [],
-      "readmeURL": "https://raw.githubusercontent.com/ianleon/StatusDesign/main/README.md?token=AABDG74BF7UHPVM7UDNNYDTC7XDB2",
-      "url": "git@github.com:ianleon/StatusDesign.git",
-      "versions": [
-        {
-          "defaultToolsVersion": "5.6",
-          "manifests": {
-            "5.6": {
-              "packageName": "StatusDesign",
-              "products": [
-                {
-                  "name": "StatusDesign",
-                  "targets": [
-                    "StatusDesign"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "StatusDesign",
-                  "name": "StatusDesign"
-                }
-              ],
-              "toolsVersion": "5.6"
-            }
-          },
-          "summary": "",
-          "version": "1.0.1"
-        },
-        {
-          "defaultToolsVersion": "5.6",
-          "manifests": {
-            "5.6": {
-              "packageName": "StatusDesign",
-              "products": [
-                {
-                  "name": "StatusDesign",
-                  "targets": [
-                    "StatusDesign"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "StatusDesign",
-                  "name": "StatusDesign"
-                }
-              ],
-              "toolsVersion": "5.6"
-            }
-          },
-          "summary": "",
-          "version": "1.0.0"
-        }
-      ]
-    },
-    {
-      "keywords": [],
-      "readmeURL": "https://raw.githubusercontent.com/ianleon/WidgetPreviews/main/README.md?token=AABDG77TJYMHDY5DKO3LXIDC7XDB6",
-      "url": "git@github.com:ianleon/WidgetPreviews.git",
+      "readmeURL": "https://raw.githubusercontent.com/ianleon/WidgetPreviews/main/README.md",
+      "url": "https://github.com/ianleon/WidgetPreviews.git",
       "versions": [
         {
           "defaultToolsVersion": "5.6",
@@ -139,8 +72,8 @@
     },
     {
       "keywords": [],
-      "readmeURL": "https://raw.githubusercontent.com/ianleon/Muscovado/main/README.md?token=AABDG76QT7MNCHWBKTW4HULC7XDCC",
-      "url": "git@github.com:ianleon/Muscovado.git",
+      "readmeURL": "https://raw.githubusercontent.com/ianleon/Muscovado/main/README.md",
+      "url": "https://github.com/ianleon/Muscovado.git",
       "versions": [
         {
           "defaultToolsVersion": "5.6",

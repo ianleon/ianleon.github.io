@@ -2,13 +2,10 @@
   "name": "Ian Leon's Swift Packages",
   "packages": [
     {
-      "url": "git@github.com:ianleon/StatusDesign.git"
+      "url": "https://github.com/ianleon/WidgetPreviews.git"
     },
     {
-      "url": "git@github.com:ianleon/WidgetPreviews.git"
-    },
-    {
-      "url": "git@github.com:ianleon/Muscovado.git"
+      "url": "https://github.com/ianleon/Muscovado.git"
     }
   ]
 }
